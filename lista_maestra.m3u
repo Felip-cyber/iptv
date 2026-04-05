@@ -1,364 +1,67 @@
 #EXTM3U x-tvg-url="http://descarga.estebandp.com/guia.xml"
+
 # ==========================================
-# CATEGORIA: DEPORTES PREMIUM
+# CATEGORIA: COLOMBIA (TOP ELITE)
 # ==========================================
-#EXTINF:-1 tvg-id="WinPlusFutbol.co@SD" tvg-logo="https://i.imgur.com/0UN87vB.png" group-title="DEPORTES PREMIUM",Win+ Futbol (1080p)
-https://live20.bozztv.com/akamaissh101/ssh101/winsporplusco/playlist.m3u8
-#EXTINF:-1 tvg-id="WinSports.co" tvg-logo="https://i.imgur.com/8N4N3u8.png" group-title="DEPORTES PREMIUM",Win Sports
-http://cdn.winsports.co/live/win/index.m3u8
-#EXTINF:-1 tvg-id="DSports.ar" tvg-logo="https://i.imgur.com/vH9Z9zG.png" group-title="DEPORTES PREMIUM",DSports
-http://servidor.com/dsports
-#EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us@SD" tvg-logo="https://i.imgur.com/V562tpO.png" group-title="DEPORTES PREMIUM",beIN Sports XTRA en Español (1080p)
-https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
-# ==========================================
-# CATEGORIA: COLOMBIA
-# ==========================================
-#EXTINF:-1 tvg-id="CitytvBogota.co@SD" tvg-logo="https://i.imgur.com/h7K9EW9.png" group-title="COLOMBIA",Citytv Bogota (1080p)
+#EXTINF:-1 tvg-id="CaracolTV" group-title="COLOMBIA",Caracol TV HD
+https://caracol.com.co/live/index.m3u8
+#EXTINF:-1 tvg-id="RCNTV" group-title="COLOMBIA",RCN HD
+https://www.canalrcn.com/vivo/index.m3u8
+#EXTINF:-1 tvg-id="Citytv" group-title="COLOMBIA",CityTV HD
 http://181.114.57.246:4000/play/u2H4dIJoRipgGI3A/index.m3u8
-#EXTINF:-1 tvg-id="SenalColombia.co@SD" tvg-logo="https://i.imgur.com/Y9x16vl.png" group-title="COLOMBIA",Senal Colombia (720p)
+#EXTINF:-1 tvg-id="SenalColombia" group-title="COLOMBIA",Señal Colombia
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalInstitucional.co@SD" tvg-logo="https://i.imgur.com/hqfQVrU.png" group-title="COLOMBIA",Canal Institucional (720p)
-https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ATNTelevision.co@SD" tvg-logo="https://i.imgur.com/79sX78u.png" group-title="COLOMBIA",ATN Televisión (720p)
-https://streaming5.globalhostla.com/rtplive/atntelevision/playlist.m3u8
-#EXTINF:-1 tvg-id="CaliTV.co@SD" tvg-logo="https://i.imgur.com/2312Luq.png" group-title="COLOMBIA",Cali TV (540p)
-https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalTRO.co@SD" tvg-logo="https://i.imgur.com/ZS5WTCd.png" group-title="COLOMBIA",Canal TRO (1080p)
+#EXTINF:-1 tvg-id="CanalTRO" group-title="COLOMBIA",Canal TRO
 https://stream.canaltrolive.co/playlist.m3u8
-#EXTINF:-1 tvg-id="CTVBarranquilla.co@SD" tvg-logo="https://i.imgur.com/w35ICn7.png" group-title="COLOMBIA",CTV Barranquilla (1080p)
-https://live.ctvbarranquilla.com/live/ctv-4ad31c89f3764bf0980e642bc12fd00a.m3u8
-#EXTINF:-1 tvg-id="CNCTulua.co@SD" tvg-logo="https://i.imgur.com/NCzpcqm.png" group-title="COLOMBIA",CNC Tulua (1080p)
-https://live.amelbatv.co:81/cnctulualive/index.fmp4.m3u8
-#EXTINF:-1 tvg-id="BUMTelevision.co@SD" tvg-logo="https://i.imgur.com/I0eGYI0.png" group-title="COLOMBIA",BUM Televisión (720p)
-https://movil.ejeserver.com/live/visiondorada.m3u8
-#EXTINF:-1 tvg-id="Canal2AlpavisionNeiva.co@SD" tvg-logo="https://i.imgur.com/Yv8XIGW.png" group-title="COLOMBIA",Canal 2 Alpavisión Neiva (720p)
-https://stmv1.voxtvhd.com.br/alpavision/alpavision/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal8TVPlus.co@SD" tvg-logo="https://i.imgur.com/peOIG1F.png" group-title="COLOMBIA",Canal 8 TV+ (720p)
-https://movil.ejeserver.com/live/canal8tv.m3u8
-#EXTINF:-1 tvg-id="Canal10SOLTV.co@SD" tvg-logo="https://i.imgur.com/kAbrHqt.jpeg" group-title="COLOMBIA",Canal 10 SOL TV (1080p)
-http://190.211.140.89:8081/SVTranscoder/SOLTVabr.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal14Codazzi.co@SD" tvg-logo="https://i.imgur.com/wNSUMhJ.png" group-title="COLOMBIA",Canal 14 Codazzi (720p)
-https://eu1.servers10.com:8081/8056/index.m3u8
-#EXTINF:-1 tvg-id="Canal55TelemoriscoTV.co@SD" tvg-logo="https://i.imgur.com/9BwZyhM.jpg" group-title="COLOMBIA",Canal 55 Telemorisco TV (720p)
-http://canal.mediaserver.com.co/live/telemorisco.m3u8
-#EXTINF:-1 tvg-id="CanalCalimaTV.co@SD" tvg-logo="https://i.imgur.com/6YxtyUR.jpeg" group-title="COLOMBIA",Canal Calima TV (720p)
-https://movil.ejeserver.com/live/calimatv.m3u8
-#EXTINF:-1 tvg-id="CanalDos.co@SD" tvg-logo="https://i.imgur.com/BYsyNHZ.jpg" group-title="COLOMBIA",Canal Dos Yopal (720p)
-http://131.221.41.94/hls/canal2.m3u8
-#EXTINF:-1 tvg-id="CanalMasTelevision.co@SD" tvg-logo="https://i.imgur.com/ODMa27W.jpg" group-title="COLOMBIA",Canal Más Televisión (720p)
-https://movil.ejeserver.com/live/teledoradahd.m3u8
-#EXTINF:-1 tvg-id="CanalMundoVision.co@SD" tvg-logo="https://i.imgur.com/zRqfJuj.png" group-title="COLOMBIA",Canal Mundo Visión (720p)
-https://movil.ejeserver.com/live/mundovisiontv.m3u8
-#EXTINF:-1 tvg-id="CanalNets.co@SD" tvg-logo="https://i.imgur.com/edaAexc.png" group-title="COLOMBIA",Canal Nets (720p)
-https://movil.ejeserver.com/live/nets.m3u8
-#EXTINF:-1 tvg-id="CanalSantaMartaTV.co@SD" tvg-logo="https://i.imgur.com/HbWadhJ.png" group-title="COLOMBIA",Canal Santa Marta TV (720p)
-https://stream.amelbasoluciones.co/live/santamartalive.m3u8
-#EXTINF:-1 tvg-id="CanalTV3.co@SD" tvg-logo="https://i.imgur.com/pyeBDpg.jpeg" group-title="COLOMBIA",Canal TV3 (720p)
-https://streaming.telenetdigital.net.co:8086/canal3tv/stream.m3u8
-#EXTINF:-1 tvg-id="CanicaTV.co@SD" tvg-logo="https://i.imgur.com/RuQDwTt.jpeg" group-title="COLOMBIA",Canica TV (240p)
-https://stmv4.voxtvhd.com.br/canicatv/canicatv/playlist.m3u8
-#EXTINF:-1 tvg-id="CNCBugavision.co@SD" tvg-logo="https://i.imgur.com/zJAwnvd.png" group-title="COLOMBIA",CNC Bugavisión (720p)
-https://movil.ejeserver.com/live/cncbuga.m3u8
-#EXTINF:-1 tvg-id="CNCChoco.co@SD" tvg-logo="https://i.imgur.com/VybK6Ub.jpeg" group-title="COLOMBIA",CNC Chocó (720p)
-https://hvtraficonew.ddns.net/corescomunicaciones/index.fmp4.m3u8
-#EXTINF:-1 tvg-id="CNCLaUnion.co@SD" tvg-logo="https://i.imgur.com/sNWWDZK.png" group-title="COLOMBIA",CNC La Union (720p)
-https://live.amelbatv.co:81/cnclaunion/index.fmp4.m3u8
-#EXTINF:-1 tvg-id="CNCPereira.co@SD" tvg-logo="https://i.imgur.com/5vJ0aXH.png" group-title="COLOMBIA",CNC Pereira (720p)
-https://cloudvideo.servers10.com:8081/latinchaneltv/index.m3u8
-#EXTINF:-1 tvg-id="CNCSantanderdeQuilichao.co@SD" tvg-logo="https://i.imgur.com/LNl2o9q.jpg" group-title="COLOMBIA",CNC Santander de Quilichao (480p)
-https://movil.ejeserver.com/live/cncsantander.m3u8
-#EXTINF:-1 tvg-id="CucutaRetroTV.co@SD" tvg-logo="https://i.imgur.com/GltIfWW.jpeg" group-title="COLOMBIA",Cúcuta Retro TV
-https://mist01.homestream.fun/hls/ntvlive/0_1/index.m3u8
-#EXTINF:-1 tvg-id="KaluTV.co@SD" tvg-logo="https://i.imgur.com/MO4w3OT.jpeg" group-title="COLOMBIA",Kalu TV (1080p)
-https://tv.kaludecolombia.com/memfs/d71c0104-4752-4690-bdbf-19aa849da6c4.m3u8
-#EXTINF:-1 tvg-id="LaCheverisimaRadioTV.co@SD" tvg-logo="https://i.imgur.com/lk5D5kB.png" group-title="COLOMBIA",La Cheverisima Radio TV (720p)
-https://byecablecluster.ddns.net/neira/neira.stream/index.fmp4.m3u8
+
 # ==========================================
-# CATEGORIA: RELIGION
+# CATEGORIA: DEPORTES (MUNDIAL & PREMIUM)
 # ==========================================
-#EXTINF:-1 tvg-id="AvivamientoTV.co@SD" tvg-logo="https://i.imgur.com/ydoBp3b.png" group-title="RELIGION",Avivamiento TV (1080p)
-https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/playlist.m3u8
-#EXTINF:-1 tvg-id="CMBTelevision.co@SD" tvg-logo="https://i.imgur.com/akGKPsk.png" group-title="RELIGION",CMB Television (1080p)
-https://cdn1.cmbcolombia.tv/bethesda/video.m3u8
-#EXTINF:-1 tvg-id="Cristovision.co@SD" tvg-logo="https://i.imgur.com/XIhCUY9.png" group-title="RELIGION",Cristovision (720p)
-https://5fc584f3f19c9.streamlock.net/cristovision/videocristovision/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalCristoVision.co@SD" tvg-logo="https://i.imgur.com/uX8p7F3.png" group-title="RELIGION",Cristovisión (720p)
-https://stmv1.voxtvhd.com.br/cristovision/cristovision/playlist.m3u8
-#EXTINF:-1 tvg-id="EWTN.us@SD" tvg-logo="https://i.imgur.com/9vJ8B0L.png" group-title="RELIGION",EWTN Español (720p)
-https://ewtn-ewtnesp.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Enlace.us@SD" tvg-logo="https://i.imgur.com/yP3uX1C.png" group-title="RELIGION",Enlace TV (1080p)
-https://enlace-enlace.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="TeleAmiga.co@SD" tvg-logo="https://i.imgur.com/rL4I3V7.png" group-title="RELIGION",Teleamiga (720p)
-https://movil.ejeserver.com/live/teleamiga.m3u8
-# ==========================================
-# CATEGORIA: MUSICA
-# ==========================================
-#EXTINF:-1 tvg-id="LaKalle.co@SD" tvg-logo="https://www.tdtparatodos.tv/sites/default/files/la_kalle.png" group-title="MUSICA",La Kalle (720p)
-https://mdstrm.com/live-stream-playlist/58d191f07290fbb058025843.m3u8
-#EXTINF:-1 tvg-id="SalsaGordaTelevision.co@SD" tvg-logo="https://i.imgur.com/3IhYd7G.jpg" group-title="MUSICA",Salsa Gorda Television (1080p)
-https://live20.bozztv.com/akamaissh101/ssh101/qMUAZEy/playlist.m3u8
-#EXTINF:-1 tvg-id="ParrandaVallenata.co@SD" tvg-logo="https://i.imgur.com/BzBX7Qx.jpeg" group-title="MUSICA",Parranda Vallenata (720p)
-https://backupmaxmedia.hvmultiplay.com/hls/stream3/parrandavallenata.m3u8
-#EXTINF:-1 tvg-id="LaHermandadSalsera.co@SD" tvg-logo="https://i.imgur.com/7Wlt6bc.png" group-title="MUSICA",La Hermandad Salsera (1080p)
-https://streamlov.alsolnet.com/hermandadsalsera/live/playlist.m3u8
-#EXTINF:-1 tvg-id="LaMoradaRadioTV.co@SD" tvg-logo="https://i.imgur.com/E3wDEX5.png" group-title="MUSICA",La Morada Radio TV (720p)
-https://movil.ejeserver.com/live/lamoradatv.m3u8
-#EXTINF:-1 tvg-id="LunaEstereo1064FM.co@SD" tvg-logo="https://i.imgur.com/cESeD6R.png" group-title="MUSICA",Luna Estéreo 106.4 FM (720p)
-https://servervideo.intermediacolombia.com:19360/kychbbfhdz/kychbbfhdz.m3u8
-#EXTINF:-1 tvg-id="MasMusicaFM.co@SD" tvg-logo="https://i.imgur.com/tCg7owd.png" group-title="MUSICA",MasMusica FM (720p)
-https://movil.ejeserver.com/live/masmusica.m3u8
-#EXTINF:-1 tvg-id="VallenatoVentiao.co@SD" tvg-logo="https://i.imgur.com/7Wlt6bc.png" group-title="MUSICA",Vallenato Ventiao (1080p)
-https://streamlov.alsolnet.com/vallenatoventiao/live/playlist.m3u8
-#EXTINF:-1 tvg-id="SalsaYControl.co@SD" tvg-logo="https://i.imgur.com/E3wDEX5.png" group-title="MUSICA",Salsa y Control TV
-https://movil.ejeserver.com/live/salsaycontrol.m3u8
-#EXTINF:-1 tvg-id="CantinazoTV.co@SD" tvg-logo="https://i.imgur.com/cESeD6R.png" group-title="MUSICA",Cantinazo TV (Popular)
-https://servervideo.intermediacolombia.com:19360/cantinazo/playlist.m3u8
-#EXTINF:-1 tvg-id="TropiTV.co@SD" tvg-logo="https://i.imgur.com/tCg7owd.png" group-title="MUSICA",Tropi TV Colombia
-https://movil.ejeserver.com/live/tropitv.m3u8
-#EXTINF:-1 tvg-id="RadiolaTV.co@SD" tvg-logo="https://i.imgur.com/ThaRRCN.png" group-title="MUSICA",Radiola TV
-https://play.cdn.enetres.net/radiola/playlist.m3u8
-#EXTINF:-1 tvg-id="HTV.lat" tvg-logo="https://i.imgur.com/u5804Au.jpg" group-title="MUSICA",HTV Música
-http://servidor.com/htv
-#EXTINF:-1 tvg-id="MTV.lat" tvg-logo="https://i.imgur.com/ppBdqel.png" group-title="MUSICA",MTV Latino
-http://servidor.com/mtv
-# ==========================================
-# CATEGORIA: ENTRETENIMIENTO
-# ==========================================
-#EXTINF:-1 tvg-id="RedPlus.co@SD" tvg-logo="https://i.imgur.com/kuqkTMC.png" group-title="ENTRETENIMIENTO",Red+ (1080p)
-https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8
-# ==========================================
-# CATEGORIA: CINE Y FAMILIA
-# ==========================================
-#EXTINF:-1 tvg-id="MCITelevision.co@SD" tvg-logo="https://pbs.twimg.com/profile_images/1836009952420274177/FfYonU6r_400x400.jpg" group-title="CINE Y FAMILIA",MCI Televisión (1080p)
-https://video.ejeserver.com/live/mcitelevision.m3u8
-# ==========================================
-# CATEGORIA: DEPORTES MUNDIAL
-# ==========================================
-#EXTINF:-1 tvg-id="AlkassOne.qa@SD" tvg-logo="https://i.imgur.com/10mmlha.png" group-title="DEPORTES MUNDIAL",Alkass One (1080p)
+#EXTINF:-1 tvg-id="WinPlus" group-title="DEPORTES",Win+ Futbol HD
+https://live20.bozztv.com/akamaissh101/ssh101/winsporplusco/playlist.m3u8
+#EXTINF:-1 tvg-id="ESPN1" group-title="DEPORTES",ESPN 1 HD
+http://158.69.124.135:8081/espn1/index.m3u8
+#EXTINF:-1 tvg-id="ESPN2" group-title="DEPORTES",ESPN 2 HD
+http://158.69.124.135:8081/espn2/index.m3u8
+#EXTINF:-1 tvg-id="ESPN3" group-title="DEPORTES",ESPN 3 HD
+http://158.69.124.135:8081/espn3/index.m3u8
+#EXTINF:-1 tvg-id="beIN_ES" group-title="DEPORTES",beIN Sports Español
+https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
+#EXTINF:-1 tvg-id="AlkassOne" group-title="DEPORTES",Alkass One HD
 https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8
-#EXTINF:-1 tvg-id="BarcaTV.es@SD" tvg-logo="https://i.imgur.com/d8x7c8i.png" group-title="DEPORTES MUNDIAL",Barca TV
+#EXTINF:-1 tvg-id="BarcaTV" group-title="DEPORTES",Barça TV
 https://live20.bozztv.com/dvrfl06/astv/astv-barca/index.m3u8
-#EXTINF:-1 tvg-id="DeporTV.ar@SD" tvg-logo="https://i.imgur.com/THk9ARS.png" group-title="DEPORTES MUNDIAL",DeporTV
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/deportv_720.m3u8
-#EXTINF:-1 tvg-id="FIFAPlus.uk@HispanicAmerica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="DEPORTES MUNDIAL",FIFA+ Latino (720p)
+#EXTINF:-1 tvg-id="FIFAPlus" group-title="DEPORTES",FIFA+ Latino
 https://6c849fb3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbXhfRklGQVBsdXNTcGFuaXNoLTFfSExT/playlist.m3u8
+#EXTINF:-1 tvg-id="DeporTV" group-title="DEPORTES",DeporTV HD
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/deportv_720.m3u8
+
 # ==========================================
-# CATEGORIA: NOTICIAS
+# CATEGORIA: CINE Y SERIES PREMIUM
 # ==========================================
-#EXTINF:-1 tvg-id="Noticiero90Minutos.co@SD" tvg-logo="https://i.imgur.com/ThaRRCN.png" group-title="NOTICIAS",Noticiero 90 Minutos (1080p)
-https://play.cdn.enetres.net/621B146D29C541AFB1507809F038F471021/021/playlist.m3u8
-#EXTINF:-1 tvg-id="OndambientalTV.co@SD" tvg-logo="https://i.imgur.com/u5804Au.jpg" group-title="NOTICIAS",Ondambiental TV (360p)
-https://stmv4.voxtvhd.com.br/ondastereo/ondastereo/playlist.m3u8
-#EXTINF:-1 tvg-id="CNN.us" tvg-logo="https://i.imgur.com/393K45H.png" group-title="NOTICIAS",CNN International
-https://cnn-cnninternational-1-gb.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="BBCNews.uk" tvg-logo="https://i.imgur.com/wL9RzY1.png" group-title="NOTICIAS",BBC News
-https://bbc-bbcnews-1-us.plex.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RT.ru" tvg-logo="https://i.imgur.com/6U6h6v0.png" group-title="NOTICIAS",RT en Español
-https://rt-esp-1.akamaized.net/hls/live/2024945/rtesp/master.m3u8
-#EXTINF:-1 tvg-id="DW.de" tvg-logo="https://i.imgur.com/XF8vM6b.png" group-title="NOTICIAS",DW Español
-https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124430/master.m3u8
-#EXTINF:-1 tvg-id="France24.fr" tvg-logo="https://i.imgur.com/zW6T4M3.png" group-title="NOTICIAS",France 24 Español
-https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
-#EXTINF:-1 tvg-id="Euronews.eu" tvg-logo="https://i.imgur.com/vH9Z9zG.png" group-title="NOTICIAS",Euronews Español
-https://euronews-euronews-espanol-1-us.plex.amagi.tv/playlist.m3u8
-# ==========================================
-# CATEGORIA: EDUCACION
-# ==========================================
-#EXTINF:-1 tvg-id="Eduvision.co@SD" tvg-logo="https://i.imgur.com/ppBdqel.png" group-title="EDUCACION",Eduvision (1080p)
-https://stmv3.voxtvhd.com.br/conex2/conex2/playlist.m3u8
-#EXTINF:-1 tvg-id="Zoom.co@SD" tvg-logo="https://i.imgur.com/euy5zp6.png" group-title="EDUCACION",Zoom (1080p)
-https://canalzoom.smoothcloud.co:3027/live/canalzoombr1live.m3u8
-# ==========================================
-# CATEGORIA: DEPORTES
-# ==========================================
-#EXTINF:-1 tvg-id="30AGolfKingdom.us@SD" tvg-logo="https://golfkingdom.net/wp-content/uploads/2022/04/golf-kingdom-st.jpg" group-title="DEPORTES",30A Golf Kingdom (720p)
-https://30a-tv.com/feeds/vidaa/golf.m3u8
-#EXTINF:-1 tvg-id="Sport.sk@SD" tvg-logo="https://i.imgur.com/oAtcxNZ.png" group-title="DEPORTES",Šport (1080p)
-http://88.212.15.27/live/test_rtvs_sport_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="ACCDigitalNetwork.us@SD" tvg-logo="https://i.imgur.com/V6Kaqha.png" group-title="DEPORTES",ACCDN (1080p)
-https://raycom-accdn-firetv.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ACISportTV.it@SD" tvg-logo="https://i.imgur.com/U8cHMOt.png" group-title="DEPORTES",ACI Sport TV (1080p)
-https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
-#EXTINF:-1 tvg-id="Adjarasport1.ge@SD" tvg-logo="https://i.imgur.com/SVV5xHC.png" group-title="DEPORTES",Adjarasport 1
-https://live20.bozztv.com/dvrfl05/gin-adjara/index.m3u8
-#EXTINF:-1 tvg-id="ADOTV.bj@SD" tvg-logo="https://i.imgur.com/pxFamLr.png" group-title="DEPORTES",ADO TV (720p)
-https://strhls.streamakaci.tv/ortb/ortb2-multi/playlist.m3u8
-#EXTINF:-1 tvg-id="Africa24Sport.fr@SD" tvg-logo="https://i0.wp.com/africa24tv.com/wp-content/uploads/2023/12/LOGO-AFRICASPORT-4-HD-sans-fond.png" group-title="DEPORTES",Africa 24 Sport (1080p)
-https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
-#EXTINF:-1 tvg-id="AlfaSport.cy@SD" tvg-logo="https://i.imgur.com/vhMPYIW.png" group-title="DEPORTES",Alfa Sport (1080p)
-https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqx
-#EXTINF:-1 tvg-id="AlkassFive.qa@SD" tvg-logo="https://i.imgur.com/6RGNGsM.png" group-title="DEPORTES",Alkass Five (1080p)
-https://liveeu-gcp.alkassdigital.net/alkass5-p/main.m3u8
-#EXTINF:-1 tvg-id="AlkassFour.qa@SD" tvg-logo="https://i.imgur.com/iDL65Wu.png" group-title="DEPORTES",Alkass Four (1080p)
-https://liveeu-gcp.alkassdigital.net/alkass4-p/main.m3u8
-#EXTINF:-1 tvg-id="AlkassSeven.qa@SD" tvg-logo="https://i.imgur.com/3eyHP3S.png" group-title="DEPORTES",Alkass Seven (1080p)
-https://liveeu-gcp.alkassdigital.net/alkass7-p/main.m3u8
-#EXTINF:-1 tvg-id="AlkassSHOOF.qa@SD" tvg-logo="https://shoof.alkass.net/assets/images/shoof.png" group-title="DEPORTES",Alkass SHOOF (1080p)
-https://liveeu-gcp.alkassdigital.net/shooflive/main.m3u8
-#EXTINF:-1 tvg-id="AlkassSHOOF2.qa@SD" tvg-logo="https://shoof.alkass.net/assets/images/shoof2.png" group-title="DEPORTES",Alkass SHOOF 2 (1080p)
-https://liveeu-gcp.alkassdigital.net/shooflive2/main.m3u8
-#EXTINF:-1 tvg-id="AlkassSix.qa@SD" tvg-logo="https://i.imgur.com/CrPSPSC.png" group-title="DEPORTES",Alkass Six (1080p)
-https://liveeu-gcp.alkassdigital.net/alkass6-p/main.m3u8
-#EXTINF:-1 tvg-id="AlkassThree.qa@SD" tvg-logo="https://i.imgur.com/d57BdFh.png" group-title="DEPORTES",Alkass Three (1080p)
-https://liveeu-gcp.alkassdigital.net/alkass3-p/main.m3u8
-#EXTINF:-1 tvg-id="AlkassTwo.qa@SD" tvg-logo="https://i.imgur.com/8w61kFX.png" group-title="DEPORTES",Alkass Two (1080p)
-https://liveeu-gcp.alkassdigital.net/alkass2-p/main.m3u8
-#EXTINF:-1 tvg-id="AntenaSport.ro@SD" tvg-logo="" group-title="DEPORTES",AntenaSport (1280p)
-https://hls.rundletv.eu.org/LIVE$AntenaSport/6.m3u8/Level/300720051?end=END&start=LIVE
-#EXTINF:-1 tvg-id="AS3SportTV.ve@SD" tvg-logo="https://i.ibb.co/bRmGbsyV/A3-SPORTTV.jpg" group-title="DEPORTES",AS3 Sport TV (1080p)
-https://streamtv.as3sport.online:3394/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="ATGLive.se@SD" tvg-logo="https://i.imgur.com/bPWFXkL.png" group-title="DEPORTES",ATG Live (720p)
-https://kanal75xto-llhls.akamaized.net/live/Data/atg-kanal-15-02a-rr/HLS-Legacy-HL/atg-kanal-15-02a-rr.m3u8
-#EXTINF:-1 tvg-id="AwapaSportsTV.sv@SD" tvg-logo="https://i.imgur.com/MNw5cJH.jpg" group-title="DEPORTES",Awapa Sports TV (1080p)
-https://mgv-awapa.akamaized.net/hls/live/2104282/MGV_CHANNEL15/master.m3u8
-#EXTINF:-1 tvg-id="BahrainSports1.bh@SD" tvg-logo="https://i.imgur.com/fBpLsbC.png" group-title="DEPORTES",Bahrain Sports 1 (720p)
-https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
-#EXTINF:-1 tvg-id="BahrainSports2.bh@SD" tvg-logo="https://i.imgur.com/ZkuZmIo.png" group-title="DEPORTES",Bahrain Sports 2 (720p)
-https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
-#EXTINF:-1 tvg-id="BEKSports.us@West" tvg-logo="https://i.imgur.com/1l3t5jd.png" group-title="DEPORTES",BEK TV Sports West (720p)
-https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="BellatorMMA.us@SD" tvg-logo="https://i.imgur.com/VBKoLHk.png" group-title="DEPORTES",Bellator MMA
-https://jmp2.uk/plu-5ebc8688f3697d00072f7cf8.m3u8
-#EXTINF:-1 tvg-id="BilliardTV.us@SD" tvg-logo="https://i.imgur.com/BZijfKh.png" group-title="DEPORTES",Billiard TV (1080p)
-https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV.m3u8
-#EXTINF:-1 tvg-id="CanaldoInter.br@SD" tvg-logo="https://i.imgur.com/TQFWEIS.png" group-title="DEPORTES",Canal do Inter (720p)
-https://video01.soultv.com.br/internacional/internacional/playlist.m3u8
-#EXTINF:-1 tvg-id="CazeTV.br@SD" tvg-logo="" group-title="DEPORTES",CazeTV (1080i)
-https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
-#EXTINF:-1 tvg-id="CBSSportsGolazoNetwork.us@SD" tvg-logo="https://i.imgur.com/eMjutHS.png" group-title="DEPORTES",CBS Sports Golazo Network (720p)
-https://proped3fhg87.airspace-cdn.cbsivideo.com/golazo-live-dai/master/golazo-live-dai.m3u8
-#EXTINF:-1 tvg-id="CCTV16.cn@SD" tvg-logo="https://i.imgur.com/ZzV6JQp.png" group-title="DEPORTES",CCTV-16
-http://74.91.26.218:82/live/cctv16hd.m3u8
-#EXTINF:-1 tvg-id="Combate.br@SD" tvg-logo="https://i.imgur.com/ZPYK5jr.png" group-title="DEPORTES",Combate Global
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
-#EXTINF:-1 tvg-id="DAZNCombat.uk@Poland" tvg-logo="https://i.postimg.cc/VsW3Jsrz/logo-DAZN-Combat.png" group-title="DEPORTES",DAZN Combat (1080p)
-https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
-#EXTINF:-1 tvg-id="FightNetwork.ca@SD" tvg-logo="https://i.imgur.com/vlKPZHR.png" group-title="DEPORTES",Fight Network (1080p)
-https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
-#EXTINF:-1 tvg-id="FightBox.nl@SD" tvg-logo="https://i.imgur.com/mRsnztA.png" group-title="DEPORTES",FightBox (1080p)
-https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc002/fightboxhdraw/fightboxhdraw.m3u8
-#EXTINF:-1 tvg-id="FITE247.us@SD" tvg-logo="https://i.imgur.com/ESV6qgH.png" group-title="DEPORTES",FITE 24/7 (1080p)
-https://d3d85c7qkywguj.cloudfront.net/scheduler/scheduleMaster/263.m3u8
-#EXTINF:-1 tvg-id="ESPNDeportes.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/960px-ESPN_Deportes.svg.png" group-title="DEPORTES",ESPN Deportes (360p)
-https://e3.thetvapp.to/hls/espn-deportes/index.m3u8
-#EXTINF:-1 tvg-id="FoxDeportes.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/960px-FOX_Deportes_logo.png" group-title="DEPORTES",Fox Sports en Español (720p)
-https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8
-#EXTINF:-1 tvg-id="FUELTV.pt@AU" tvg-logo="https://i.imgur.com/I8mviBy.png" group-title="DEPORTES",Fuel TV (1080p)
-https://amg01074-fueltv-fueltvau-samsungau-g09kq.amagi.tv/playlist/amg01074-fueltv-fueltvau-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-id="F1Channel.ie@SD" tvg-logo="https://i.imgur.com/cjXzWsI.png" group-title="DEPORTES",F1 Channel (720p)
-https://jmp2.uk/plu-65c69ee3d77d450008c80438.m3u8
-#EXTINF:-1 tvg-id="ExtremeSportsChannelPolska.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Extreme_Sports_Channel.svg/960px-Extreme_Sports_Channel.svg.png" group-title="DEPORTES",Extreme Sports Channel (1080p)
-https://liveovh010.cda.pl/2SHZi_SkX4h0MDflza1PPw/1753748478/3480440/enc124/extremesportshdraw/extremesportshdraw.mpd
-# ==========================================
-# CATEGORIA: FUTBOL
-# ==========================================
-#EXTINF:-1 tvg-id="FIFAPlus.uk@English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="FUTBOL",FIFA+ (720p)
-https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
-#EXTINF:-1 tvg-id="FIFAPlus.uk@French" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="FUTBOL",FIFA+ French (720p)
-https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/playlist.m3u8
-#EXTINF:-1 tvg-id="FIFAPlus.uk@German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="FUTBOL",FIFA+ German (720p)
-https://4397879b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWRlX0ZJRkFQbHVzR2VybWFuX0hMUw/playlist.m3u8
-#EXTINF:-1 tvg-id="FIFAPlus.uk@Italy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="FUTBOL",FIFA+ Italy (720p)
-https://5d95f7d7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X0ZJRkFQbHVzSXRhbGlhbl9ITFM/playlist.m3u8
-#EXTINF:-1 tvg-id="FIFAPlus.uk@Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="FUTBOL",FIFA+ Portuguese (720p)
-https://e3be9ac5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNQb3J0dWd1ZXNlX0hMUw/playlist.m3u8
-#EXTINF:-1 tvg-id="FIFAPlus.uk@Spain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="FUTBOL",FIFA+ Spain (720p)
-https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8
-#EXTINF:-1 tvg-id="FIFAPlusWomen.uk@English" tvg-logo="https://i.imgur.com/xy9ZxVO.png" group-title="FUTBOL",FIFA+ Women (720p)
-https://cffda8ff.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c3dvbWVuX0hMUw/playlist.m3u8
-# ==========================================
-# CATEGORIA: CINE Y SERIES
-# ==========================================
-#EXTINF:-1 tvg-id="WarnerBrosTV.us" tvg-logo="https://i.imgur.com/393K45H.png" group-title="CINE Y SERIES",Warner Bros TV
+#EXTINF:-1 tvg-id="Warner" group-title="CINE Y SERIES",Warner Channel HD
 https://vcp-live-warner.freetv.com/warner-hls/master.m3u8
-#EXTINF:-1 tvg-id="StarChannel.lat" tvg-logo="https://i.imgur.com/wL9RzY1.png" group-title="CINE Y SERIES",Star Channel
-http://servidor.com/star-channel
-#EXTINF:-1 tvg-id="FX.lat" tvg-logo="https://i.imgur.com/6U6h6v0.png" group-title="CINE Y SERIES",FX Latino
-http://servidor.com/fx
-#EXTINF:-1 tvg-id="TNT.lat" tvg-logo="https://i.imgur.com/XF8vM6b.png" group-title="CINE Y SERIES",TNT
-http://servidor.com/tnt
-#EXTINF:-1 tvg-id="Golden.lat" tvg-logo="https://i.imgur.com/zW6T4M3.png" group-title="CINE Y SERIES",Golden Premier
-http://servidor.com/golden
-#EXTINF:-1 tvg-id="Space.lat" tvg-logo="https://i.imgur.com/vH9Z9zG.png" group-title="CINE Y SERIES",Space
-http://servidor.com/space
-#EXTINF:-1 tvg-id="CineCanal.lat" tvg-logo="https://i.imgur.com/6W2M6xP.png" group-title="CINE Y SERIES",CineCanal
-http://servidor.com/cinecanal
-#EXTINF:-1 tvg-id="ParamountNetwork.lat" tvg-logo="https://i.imgur.com/pZz6v4k.png" group-title="CINE Y SERIES",Paramount Network
-http://servidor.com/paramount
-#EXTINF:-1 tvg-id="UniversalTV.lat" tvg-logo="https://i.imgur.com/U7vV8G1.png" group-title="CINE Y SERIES",Universal TV
-http://servidor.com/universal
-#EXTINF:-1 tvg-id="AXN.lat" tvg-logo="https://i.imgur.com/8N4N3u8.png" group-title="CINE Y SERIES",AXN
-http://servidor.com/axn
-#EXTINF:-1 tvg-id="TCM.lat" tvg-logo="https://i.imgur.com/6W2M6xP.png" group-title="CINE Y SERIES",TCM Classic Hollywood
-http://servidor.com/tcm
-#EXTINF:-1 tvg-id="ParamountClassic.lat" tvg-logo="https://i.imgur.com/pZz6v4k.png" group-title="CINE Y SERIES",Paramount Classic
-http://servidor.com/paramount-classic
-#EXTINF:-1 tvg-id="FilmNoir.us" tvg-logo="https://i.imgur.com/U7vV8G1.png" group-title="CINE Y SERIES",Film Noir Foundation
-https://filmnoir-1-us.plex.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ShoutFactory.us" tvg-logo="https://i.imgur.com/8N4N3u8.png" group-title="CINE Y SERIES",Shout! Factory TV (Cult Classics)
-https://shoutfactory-shoutfactory-1-us.plex.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RetroCrush.us" tvg-logo="https://i.imgur.com/393K45H.png" group-title="CINE Y SERIES",RetroCrush (Anime Clásico)
-https://retrocrush-1-us.plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TNT" group-title="CINE Y SERIES",TNT HD
+http://158.69.124.135:8081/tnt/index.m3u8
+#EXTINF:-1 tvg-id="CineCanal" group-title="CINE Y SERIES",CineCanal HD
+http://158.69.124.135:8081/cinecanal/index.m3u8
+#EXTINF:-1 tvg-id="PlutoCine" group-title="CINE Y SERIES",Pluto TV Cine
+https://stitcher-latam.pluto.tv/stitcher/v1/playlist/type/m3u8/channel/5f593e36e138a0000787ca16.m3u8
+
 # ==========================================
-# CATEGORIA: DOCUMENTALES
+# CATEGORIA: DOCUMENTALES & MUNDO
 # ==========================================
-#EXTINF:-1 tvg-id="DiscoveryChannel.lat" tvg-logo="https://i.imgur.com/vH9Z9zG.png" group-title="DOCUMENTALES",Discovery Channel
-http://servidor.com/discovery
-#EXTINF:-1 tvg-id="NatGeo.lat" tvg-logo="https://i.imgur.com/6W2M6xP.png" group-title="DOCUMENTALES",National Geographic
-http://servidor.com/natgeo
-#EXTINF:-1 tvg-id="HistoryChannel.lat" tvg-logo="https://i.imgur.com/pZz6v4k.png" group-title="DOCUMENTALES",History Channel
-http://servidor.com/history
-#EXTINF:-1 tvg-id="AnimalPlanet.lat" tvg-logo="https://i.imgur.com/U7vV8G1.png" group-title="DOCUMENTALES",Animal Planet
-http://servidor.com/animal-planet
-#EXTINF:-1 tvg-id="IDDiscovery.lat" tvg-logo="https://i.imgur.com/8N4N3u8.png" group-title="DOCUMENTALES",Investigación Discovery
-http://servidor.com/id
-# ==========================================
-# CATEGORIA: NATURALEZA
-# ==========================================
-#EXTINF:-1 tvg-id="ElMundodelCampo.co@SD" tvg-logo="https://i.imgur.com/xG2apUG.jpeg" group-title="NATURALEZA",El Mundo del Campo (720p)
-https://movil.ejeserver.com/live/elmundodelcampo.m3u8
-#EXTINF:-1 tvg-id="UMCTV.co@SD" tvg-logo="https://i.imgur.com/YQUK4wO.png" group-title="NATURALEZA",UMC TV (720p)
-https://streaming5.globalhostla.com/rtplive/unamirad/playlist.m3u8
-# ==========================================
-# CATEGORIA: VARIEDADES
-# ==========================================
-#EXTINF:-1 tvg-id="HomeAndHealth.lat" tvg-logo="https://i.imgur.com/393K45H.png" group-title="VARIEDADES",Discovery Home & Health
-http://servidor.com/home-health
-#EXTINF:-1 tvg-id="TLCEspanol.lat" tvg-logo="https://i.imgur.com/wL9RzY1.png" group-title="VARIEDADES",TLC
-http://servidor.com/tlc
-#EXTINF:-1 tvg-id="Gourmet.lat" tvg-logo="https://i.imgur.com/6U6h6v0.png" group-title="VARIEDADES",El Gourmet
-http://servidor.com/el-gourmet
-#EXTINF:-1 tvg-id="FoodNetwork.lat" tvg-logo="https://i.imgur.com/XF8vM6b.png" group-title="VARIEDADES",Food Network
-http://servidor.com/food-network
-#EXTINF:-1 tvg-id="UltraCasanareTV.co@SD" tvg-logo="https://i.imgur.com/1voWgLI.png" group-title="VARIEDADES",Ultra Casanare TV (1080p)
-https://eu1.servers10.com:8081/8072/index.m3u8
-#EXTINF:-1 tvg-id="TeveColombia.co@SD" tvg-logo="https://i.imgur.com/vPwiJTw.png" group-title="VARIEDADES",TeveColombia (720p)
-https://cloud6.livescast.com:3900/live/tevecolombialive.m3u8
-# ==========================================
-# CATEGORIA: INFANTIL
-# ==========================================
-#EXTINF:-1 tvg-id="DiscoveryKids.lat" tvg-logo="https://i.imgur.com/vH9Z9zG.png" group-title="INFANTIL",Discovery Kids
-http://servidor.com/discovery-kids
-#EXTINF:-1 tvg-id="CartoonNetwork.lat" tvg-logo="https://i.imgur.com/6W2M6xP.png" group-title="INFANTIL",Cartoon Network
-http://servidor.com/cartoon-network
-#EXTINF:-1 tvg-id="DisneyChannel.lat" tvg-logo="https://i.imgur.com/pZz6v4k.png" group-title="INFANTIL",Disney Channel
-http://servidor.com/disney-channel
-#EXTINF:-1 tvg-id="Nickelodeon.lat" tvg-logo="https://i.imgur.com/U7vV8G1.png" group-title="INFANTIL",Nickelodeon
-http://servidor.com/nickelodeon
-#EXTINF:-1 tvg-id="NickJr.lat" tvg-logo="https://i.imgur.com/8N4N3u8.png" group-title="INFANTIL",Nick Jr.
-http://servidor.com/nick-jr
-#EXTINF:-1 tvg-id="DisneyJunior.lat" tvg-logo="https://i.imgur.com/393K45H.png" group-title="INFANTIL",Disney Junior
-http://servidor.com/disney-jr
-# ==========================================
-# CATEGORIA: TECNOLOGIA
-# ==========================================
-#EXTINF:-1 tvg-id="IGN.us" tvg-logo="https://i.imgur.com/6U6h6v0.png" group-title="TECNOLOGIA",IGN TV (Gaming & Tech)
-https://ign-ign-1-us.plex.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="G4TV.us" tvg-logo="https://i.imgur.com/vH9Z9zG.png" group-title="TECNOLOGIA",G4TV Retro
-https://g4-g4-1-us.plex.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="VevoTech.us" tvg-logo="https://i.imgur.com/pZz6v4k.png" group-title="TECNOLOGIA",Vevo Tech News
-http://servidor.com/vevo-tech
-#EXTINF:-1 tvg-id="Wired.us" tvg-logo="https://i.imgur.com/U7vV8G1.png" group-title="TECNOLOGIA",Wired TV
-https://wired-wired-1-us.plex.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="NASA.us" tvg-logo="https://i.imgur.com/8N4N3u8.png" group-title="TECNOLOGIA",NASA TV (Ciencia y Espacio)
+#EXTINF:-1 tvg-id="NASA" group-title="DOCUMENTALES",NASA TV UHD
 https://ntv1.akamaized.net/hls/live/2014049/NASA-NTV1-HLS/master.m3u8
+#EXTINF:-1 tvg-id="DW_ES" group-title="DOCUMENTALES",DW Español
+https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124430/master.m3u8
+
+# ==========================================
+# CATEGORIA: MUSICA & VARIEDADES
+# ==========================================
+#EXTINF:-1 tvg-id="LaKalle" group-title="MUSICA",La Kalle HD
+https://mdstrm.com/live-stream-playlist/58d191f07290fbb058025843.m3u8
+#EXTINF:-1 tvg-id="Radiola" group-title="MUSICA",Radiola TV
+https://play.cdn.enetres.net/radiola/playlist.m3u8
+#EXTINF:-1 tvg-id="SalsaGorda" group-title="MUSICA",Salsa Gorda TV
+https://live20.bozztv.com/akamaissh101/ssh101/qMUAZEy/playlist.m3u8
