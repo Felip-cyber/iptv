@@ -47,7 +47,7 @@ async function generateProfessionalPlaylist() {
     }
 
     // Cambiamos el nombre para evitar el caché del TV
-    fs.writeFileSync('lista_maestra.m3u', finalPlaylist);
+    fs.writeFileSync('lista_nueva.m3u', finalPlaylist);
     console.log("\n🔥 Build completada. Ahora haz el push a GitHub.");
 }
 
