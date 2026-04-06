@@ -1,97 +1,101 @@
-#EXTM3U x-tvg-url="http://descarga.estebandp.com/guia.xml"
+#EXTM3U
 
-# ==========================================
-# CATEGORIA: DEPORTES (ELITE)
-# ==========================================
-#EXTINF:-1 tvg-id="WinPlus" group-title="DEPORTES",Win+ Futbol HD
+# CATEGORIA: DEPORTES
+#EXTINF:-1,Win+ Futbol HD
 https://live20.bozztv.com/akamaissh101/ssh101/winsporplusco/playlist.m3u8
-#EXTINF:-1 tvg-id="ESPN1" group-title="DEPORTES",ESPN 1
+#EXTINF:-1,ESPN 1 HD
 http://158.69.124.135:8081/espn1/index.m3u8
-#EXTINF:-1 tvg-id="ESPN2" group-title="DEPORTES",ESPN 2
+#EXTINF:-1,ESPN 2 HD
 http://158.69.124.135:8081/espn2/index.m3u8
-#EXTINF:-1 tvg-id="ESPN3" group-title="DEPORTES",ESPN 3
+#EXTINF:-1,ESPN 3 HD
 http://158.69.124.135:8081/espn3/index.m3u8
-#EXTINF:-1 tvg-id="FOX1" group-title="DEPORTES",Fox Sports 1
+#EXTINF:-1,ESPN 4 HD
+http://158.69.124.135:8081/espn4/index.m3u8
+#EXTINF:-1,ESPN 5 HD
+http://158.69.124.135:8081/espn5/index.m3u8
+#EXTINF:-1,ESPN 6 HD
+http://158.69.124.135:8081/espn6/index.m3u8
+#EXTINF:-1,ESPN 7 HD
+http://158.69.124.135:8081/espn7/index.m3u8
+#EXTINF:-1,Fox Sports 1 HD
 http://158.69.124.135:8081/foxsports1/index.m3u8
-#EXTINF:-1 tvg-id="FOX2" group-title="DEPORTES",Fox Sports 2
+#EXTINF:-1,Fox Sports 2 HD
 http://158.69.124.135:8081/foxsports2/index.m3u8
-#EXTINF:-1 tvg-id="BEIN" group-title="DEPORTES",beIN Sports
-https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
-#EXTINF:-1 tvg-id="TNTSPORTS" group-title="DEPORTES",TNT Sports
+#EXTINF:-1,Fox Sports 3 HD
+http://158.69.124.135:8081/foxsports3/index.m3u8
+#EXTINF:-1,TNT Sports HD
 http://158.69.124.135:8081/tntsports/index.m3u8
+#EXTINF:-1,beIN Sports Espanol
+https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
+#EXTINF:-1,Sky Sports PL
+http://158.69.124.135:8081/skysports/index.m3u8
+#EXTINF:-1,DAZN 1 HD
+http://158.69.124.135:8081/dazn/index.m3u8
 
-# ==========================================
-# CATEGORIA: CINE PREMIUM (A-Z)
-# ==========================================
-#EXTINF:-1 tvg-id="HBO" group-title="CINE",HBO HD
+# CATEGORIA: CINE Y SERIES
+#EXTINF:-1,HBO HD
 http://158.69.124.135:8081/hbo/index.m3u8
-#EXTINF:-1 tvg-id="HBO2" group-title="CINE",HBO 2
+#EXTINF:-1,HBO 2 HD
 http://158.69.124.135:8081/hbo2/index.m3u8
-#EXTINF:-1 tvg-id="STAR" group-title="CINE",Star Channel
+#EXTINF:-1,HBO Family
+http://158.69.124.135:8081/hbofamily/index.m3u8
+#EXTINF:-1,HBO Mundi
+http://158.69.124.135:8081/hbomundi/index.m3u8
+#EXTINF:-1,Star Channel HD
 http://158.69.124.135:8081/starchannel/index.m3u8
-#EXTINF:-1 tvg-id="WARNER" group-title="CINE",Warner Channel
+#EXTINF:-1,Star Action HD
+http://158.69.124.135:8081/staraction/index.m3u8
+#EXTINF:-1,Warner Channel HD
 https://vcp-live-warner.freetv.com/warner-hls/master.m3u8
-#EXTINF:-1 tvg-id="TNT" group-title="CINE",TNT HD
+#EXTINF:-1,TNT HD
 http://158.69.124.135:8081/tnt/index.m3u8
-#EXTINF:-1 tvg-id="AMC" group-title="CINE",AMC
+#EXTINF:-1,AMC HD
 http://158.69.124.135:8081/amc/index.m3u8
-#EXTINF:-1 tvg-id="UNIVERSAL" group-title="CINE",Universal TV
+#EXTINF:-1,Universal TV
 http://158.69.124.135:8081/universal/index.m3u8
-#EXTINF:-1 tvg-id="SONY" group-title="CINE",Sony Channel
-http://158.69.124.135:8081/sony/index.m3u8
-#EXTINF:-1 tvg-id="AXN" group-title="CINE",AXN HD
+#EXTINF:-1,AXN HD
 http://158.69.124.135:8081/axn/index.m3u8
-#EXTINF:-1 tvg-id="CINEMAX" group-title="CINE",Cinemax
+#EXTINF:-1,Sony Channel
+http://158.69.124.135:8081/sony/index.m3u8
+#EXTINF:-1,Cinemax HD
 http://158.69.124.135:8081/cinemax/index.m3u8
-#EXTINF:-1 tvg-id="PARAMOUNT" group-title="CINE",Paramount Network
-http://158.69.124.135:8081/paramount/index.m3u8
-#EXTINF:-1 tvg-id="GOLDEN" group-title="CINE",Golden
+#EXTINF:-1,CineCanal HD
+http://158.69.124.135:8081/cinecanal/index.m3u8
+#EXTINF:-1,Golden HD
 http://158.69.124.135:8081/golden/index.m3u8
-#EXTINF:-1 tvg-id="FILMARTS" group-title="CINE",Film & Arts
-http://158.69.124.135:8081/filmarts/index.m3u8
 
-# ==========================================
 # CATEGORIA: DOCUMENTALES
-# ==========================================
-#EXTINF:-1 tvg-id="DISCOVERY" group-title="DOCUMENTALES",Discovery
+#EXTINF:-1,Discovery Channel
 http://158.69.124.135:8081/discovery/index.m3u8
-#EXTINF:-1 tvg-id="NATGEO" group-title="DOCUMENTALES",NatGeo
+#EXTINF:-1,National Geographic
 http://158.69.124.135:8081/natgeo/index.m3u8
-#EXTINF:-1 tvg-id="HISTORY" group-title="DOCUMENTALES",History
+#EXTINF:-1,History Channel
 http://158.69.124.135:8081/history/index.m3u8
-#EXTINF:-1 tvg-id="ANIMAL" group-title="DOCUMENTALES",Animal Planet
+#EXTINF:-1,Animal Planet
 http://158.69.124.135:8081/animalplanet/index.m3u8
-#EXTINF:-1 tvg-id="NASA" group-title="DOCUMENTALES",NASA TV
+#EXTINF:-1,NASA TV UHD
 https://ntv1.akamaized.net/hls/live/2014049/NASA-NTV1-HLS/master.m3u8
+#EXTINF:-1,DW Espanol
+https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124430/master.m3u8
 
-# ==========================================
 # CATEGORIA: INFANTIL
-# ==========================================
-#EXTINF:-1 tvg-id="DISNEY" group-title="INFANTIL",Disney Channel
+#EXTINF:-1,Disney Channel
 http://158.69.124.135:8081/disney/index.m3u8
-#EXTINF:-1 tvg-id="NICK" group-title="INFANTIL",Nickelodeon
+#EXTINF:-1,Disney Junior
+http://158.69.124.135:8081/disneyjr/index.m3u8
+#EXTINF:-1,Nickelodeon
 http://158.69.124.135:8081/nick/index.m3u8
-#EXTINF:-1 tvg-id="CARTOON" group-title="INFANTIL",Cartoon Network
+#EXTINF:-1,Cartoon Network
 http://158.69.124.135:8081/cartoon/index.m3u8
 
-# ==========================================
 # CATEGORIA: COLOMBIA
-# ==========================================
-#EXTINF:-1 tvg-id="CARACOL" group-title="COLOMBIA",Caracol TV
+#EXTINF:-1,Caracol TV HD
 https://caracol.com.co/live/index.m3u8
-#EXTINF:-1 tvg-id="RCN" group-title="COLOMBIA",RCN
+#EXTINF:-1,RCN HD
 https://www.canalrcn.com/vivo/index.m3u8
-#EXTINF:-1 tvg-id="CITY" group-title="COLOMBIA",CityTV
+#EXTINF:-1,CityTV HD
 http://181.114.57.246:4000/play/u2H4dIJoRipgGI3A/index.m3u8
-
-# ==========================================
-# CATEGORIA: MÚSICA & NOTICIAS
-# ==========================================
-#EXTINF:-1 tvg-id="LAKALLE" group-title="MÚSICA",La Kalle
-https://mdstrm.com/live-stream-playlist/58d191f07290fbb058025843.m3u8
-#EXTINF:-1 tvg-id="CNN" group-title="NOTICIAS",CNN Español
-http://158.69.124.135:8081/cnnespanol/index.m3u8
-#EXTINF:-1 tvg-id="RT" group-title="NOTICIAS",RT Español
-https://rt-esp.akamaized.net/hls/esp/main/1/index.m3u8
-#EXTINF:-1 tvg-id="DW" group-title="NOTICIAS",DW Español
-https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124430/master.m3u8
+#EXTINF:-1,Senal Colombia
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
+#EXTINF:-1,Canal TRO
+https://stream.canaltrolive.co/playlist.m3u8
