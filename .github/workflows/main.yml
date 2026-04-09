@@ -1,0 +1,23 @@
+name: Actualización Automática de Lista
+on:
+  schedule:
+    - cron: '0 */12 * * *' # Corre cada 12 horas
+  workflow_dispatch: # Permite correrlo manual desde GitHub
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v2
+        with:
+          node-version: '16'
+      - run: npm install axios
+      - run: node index.js
+      - name: Commit y Push de la lista fresca
+        run: |
+          git config --global user.name 'Agente-IPTV'
+          git config --global user.email 'agente@github.com'
+          git add lista_nueva.m3u
+          git commit -m "Lista actualizada por el sistema"
+          git push

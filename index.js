@@ -8,47 +8,47 @@ const sources = [
     { name: 'DOCUMENTALES', url: 'https://iptv-org.github.io/iptv/categories/documentary.m3u' }
 ];
 
-// Aquí inyectamos los que SÍ funcionan fijo (los que te pasé antes)
-const premiumManual = `
-#EXTINF:-1 tvg-id="WinPlus" group-title="DEPORTES",Win+ Futbol HD
-https://live20.bozztv.com/akamaissh101/ssh101/winsporplusco/playlist.m3u8
-#EXTINF:-1 tvg-id="ESPN1" group-title="DEPORTES",ESPN 1 HD
-http://158.69.124.135:8081/espn1/index.m3u8
-#EXTINF:-1 tvg-id="HBO" group-title="CINE",HBO HD
-http://158.69.124.135:8081/hbo/index.m3u8
-`;
+// FUNCIÓN AGENTE: Verifica si el canal está activo antes de agregarlo
+async function checkLink(url) {
+    try {
+        const res = await axios.get(url, { timeout: 3000, headers: { 'Range': 'bytes=0-100' } });
+        return res.status === 200;
+    } catch (e) {
+        return false;
+    }
+}
 
 async function generateProfessionalPlaylist() {
-    let finalPlaylist = "#EXTM3U\n" + premiumManual; 
-    console.log("🚀 Extrayendo canales de la red...");
+    let finalPlaylist = "#EXTM3U\n";
+    console.log("🤖 Agente de IPTV activado. Validando enlaces...");
 
     for (const source of sources) {
         try {
-            const response = await axios.get(source.url, { timeout: 5000 });
+            const response = await axios.get(source.url, { timeout: 10000 });
             let lines = response.data.split('\n');
-            let count = 0;
             
             for (let i = 0; i < lines.length; i++) {
-                if (lines[i].includes("#EXTINF") && !lines[i].includes("[Geo-blocked]")) {
-                    // Limpieza de etiquetas basura para que Smarters Pro no se confunda
-                    let cleanLine = lines[i].replace(/group-title="[^"]*"/, `group-title="${source.name}"`);
-                    
-                    // Solo añadimos si tiene una URL válida en la siguiente línea
-                    if (lines[i+1] && lines[i+1].startsWith('http')) {
-                        finalPlaylist += cleanLine + "\n" + lines[i+1] + "\n";
-                        count++;
+                if (lines[i].includes("#EXTINF")) {
+                    let url = lines[i+1]?.trim();
+                    if (url && url.startsWith('http')) {
+                        
+                        // Aquí el agente toma la decisión
+                        const isAlive = await checkLink(url); 
+                        if (isAlive) {
+                            let cleanLine = lines[i].replace(/group-title="[^"]*"/, `group-title="${source.name}"`);
+                            finalPlaylist += cleanLine + "\n" + url + "\n";
+                        }
                     }
                 }
             }
-            console.log(`✅ ${source.name}: ${count} añadidos.`);
+            console.log(`✅ Fuente ${source.name} procesada.`);
         } catch (e) {
-            console.error(`❌ Error en fuente ${source.name}: ${e.message}`);
+            console.error(`❌ Error en ${source.name}`);
         }
     }
 
-    // Cambiamos el nombre para evitar el caché del TV
     fs.writeFileSync('lista_nueva.m3u', finalPlaylist);
-    console.log("\n🔥 Build completada. Ahora haz el push a GitHub.");
+    console.log("\n🔥 Build limpia. Solo canales activos guardados.");
 }
 
 generateProfessionalPlaylist();
