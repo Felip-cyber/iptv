@@ -5,8 +5,6 @@ https://d3b6q2ou5kp8ke.cloudfront.net/ESPNTheOcho.m3u8
 http://Tdo@origin.thetvapp.to/hls/espn-deportes/mono.m3u8
 #EXTINF:-1 tvg-id="FoxSports2.us@HD" tvg-logo="https://i.imgur.com/LHtxKI8.png" group-title="Sports",Fox Sports 2 (720p) [Not 24/7]
 https://tvpass.org/live/FoxSports2/hd
-#EXTINF:-1 tvg-id="FoxSports3LatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/960px-Fox_sports_3_logo.svg.png" group-title="Sports",Fox Sports 3 Latin America (1080p)
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-92.playlist.m3u8
 #EXTINF:-1 tvg-id="30AGolfKingdom.us@SD" tvg-logo="https://golfkingdom.net/wp-content/uploads/2022/04/golf-kingdom-st.jpg" group-title="Sports",30A Golf Kingdom (720p)
 https://30a-tv.com/feeds/vidaa/golf.m3u8
 #EXTINF:-1 tvg-id="ACCDigitalNetwork.us@SD" tvg-logo="https://i.imgur.com/V6Kaqha.png" group-title="Sports",ACCDN (1080p)
@@ -77,8 +75,6 @@ https://na.linear.zype.com/e0bd0e23-a958-4e43-8164-4f2fef8876a8/fd3614bd-90bf-45
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.m3u8
 #EXTINF:-1 tvg-id="Esport3.es@Originals" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Esport3.svg/960px-Esport3.svg.png" group-title="Public;Sports",Esport3 (1080p) [Not 24/7]
 https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8
-#EXTINF:-1 tvg-id="ExtremeSportsChannelPolska.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Extreme_Sports_Channel.svg/960px-Extreme_Sports_Channel.svg.png" group-title="Sports",Extreme Sports Channel Polska (1080p)
-https://liveovh010.cda.pl/2SHZi_SkX4h0MDflza1PPw/1753748478/3480440/enc124/extremesportshdraw/extremesportshdraw.mpd
 #EXTINF:-1 tvg-id="F1Channel.ie@US" tvg-logo="https://i.imgur.com/cjXzWsI.png" group-title="Sports",F1 Channel (1080p) [Geo-blocked]
 https://amg12058-c15studio-amg12058c1-lg-us-5787.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="FanDuelRacing.us@SD" tvg-logo="https://i.imgur.com/84lMjSj.png" group-title="Sports",FanDuel Racing
@@ -87,8 +83,6 @@ https://d3ehq1uaxory6w.cloudfront.net/out/v1/35c05f080f4e49a4b4eb031b5a14e505/TV
 https://d2jl8r92tdc3f1.cloudfront.net/out/v1/59419700344b4625b7cb0693ba265ea3/TVGindex_1.m3u8
 #EXTINF:-1 tvg-id="FBTV.tr@SD" tvg-logo="https://i.imgur.com/qBVqtYd.png" group-title="Sports",FB TV
 http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="FightBox.nl@SD" tvg-logo="https://i.imgur.com/mRsnztA.png" group-title="Sports",FightBox (1080p)
-https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc002/fightboxhdraw/fightboxhdraw.m3u8
 #EXTINF:-1 tvg-id="FTFSports.us@SD" tvg-logo="https://i.imgur.com/yvUjOI3.png" group-title="Sports",FTF Sports (720p)
 https://1657061170.rsc.cdn77.org/HLS/FTF-LINEAR.m3u8
 #EXTINF:-1 tvg-id="FTV.bo@SD" tvg-logo="https://i.imgur.com/YOr1Oac.png" group-title="Sports",FTV (720p)
@@ -99,6 +93,12 @@ https://dnf08l6u6uxnz.cloudfront.net/master.m3u8
 https://amg01074-fueltv-fueltvau-samsungau-g09kq.amagi.tv/playlist/amg01074-fueltv-fueltvau-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-id="FUELTV.pt@EMEA" tvg-logo="https://i.imgur.com/I8mviBy.png" group-title="Sports",FUEL TV (1080p)
 https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8
+#EXTINF:-1 tvg-id="FUELTV.pt@SD" tvg-logo="https://i.imgur.com/I8mviBy.png" group-title="Sports",Fuel TV (1080p)
+https://amg01074-fueltv-amg01074c1-stirr-us-4214.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Futbol.tj@SD" tvg-logo="https://i.imgur.com/RngmCDn.png" group-title="Sports",Futbol (1080p)
+https://live.teleradiocom.tj/8/3m.m3u8
+#EXTINF:-1 tvg-id="GamePlus.ca@SD" tvg-logo="https://i.imgur.com/Lj69WbR.png" group-title="Sports",Game+ (720p)
+https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="ATNTelevision.co@SD" tvg-logo="https://i.imgur.com/79sX78u.png" group-title="General",ATN Televisión (720p) [Not 24/7]
 https://streaming5.globalhostla.com/rtplive/atntelevision/playlist.m3u8
 #EXTINF:-1 tvg-id="AvivamientoTV.co@SD" tvg-logo="https://i.imgur.com/ydoBp3b.png" group-title="Religious",Avivamiento TV (1080p) [Not 24/7]
@@ -214,7 +214,7 @@ https://jmp2.uk/plu-5f4d86f519358a00072b978e.m3u8
 #EXTINF:-1 tvg-id="312Kino.kg@SD" tvg-logo="https://i.ibb.co/3m9LrLj/k7gIibH.png" group-title="Movies",312 Кино (406p)
 http://176.126.166.43:1935/live/312kino/playlist.m3u8
 #EXTINF:-1 tvg-id="Andpictures.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022J67R.png?lock=720x540" group-title="Movies",&pictures HD (1080p)
-http://103.161.153.165:8000/play/a05u/index.m3u8
+http://103.229.254.25:7001/play/a033/index.m3u8
 #EXTINF:-1 tvg-id="AndTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDTV/images/LOGO_HD/LOGO_HD_image.png" group-title="Movies",&TV (576p)
 http://103.229.254.25:7001/play/a09v/index.m3u8
 #EXTINF:-1 tvg-id="AndTV.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDTV/images/LOGO_HD/LOGO_HD_image.png" group-title="Movies",&TV HD (1080p)
