@@ -85,8 +85,6 @@ https://d3ehq1uaxory6w.cloudfront.net/out/v1/35c05f080f4e49a4b4eb031b5a14e505/TV
 https://d2jl8r92tdc3f1.cloudfront.net/out/v1/59419700344b4625b7cb0693ba265ea3/TVGindex_1.m3u8
 #EXTINF:-1 tvg-id="FBTV.tr@SD" tvg-logo="https://i.imgur.com/qBVqtYd.png" group-title="Sports",FB TV
 http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="FITE247.us@SD" tvg-logo="https://i.imgur.com/ESV6qgH.png" group-title="Sports",FITE 24/7 (1080p)
-https://d3d85c7qkywguj.cloudfront.net/scheduler/scheduleMaster/263.m3u8
 #EXTINF:-1 tvg-id="FTFSports.us@SD" tvg-logo="https://i.imgur.com/yvUjOI3.png" group-title="Sports",FTF Sports (720p)
 https://1657061170.rsc.cdn77.org/HLS/FTF-LINEAR.m3u8
 #EXTINF:-1 tvg-id="FTV.bo@SD" tvg-logo="https://i.imgur.com/YOr1Oac.png" group-title="Sports",FTV (720p)
@@ -99,6 +97,8 @@ https://amg01074-fueltv-fueltvau-samsungau-g09kq.amagi.tv/playlist/amg01074-fuel
 https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8
 #EXTINF:-1 tvg-id="FUELTV.pt@SD" tvg-logo="https://i.imgur.com/I8mviBy.png" group-title="Sports",Fuel TV (1080p)
 https://amg01074-fueltv-amg01074c1-stirr-us-4214.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Futbol.tj@SD" tvg-logo="https://i.imgur.com/RngmCDn.png" group-title="Sports",Futbol (1080p)
+https://live.teleradiocom.tj/8/3m.m3u8
 #EXTINF:-1 tvg-id="ATNTelevision.co@SD" tvg-logo="https://i.imgur.com/79sX78u.png" group-title="General",ATN Televisión (720p) [Not 24/7]
 https://streaming5.globalhostla.com/rtplive/atntelevision/playlist.m3u8
 #EXTINF:-1 tvg-id="AvivamientoTV.co@SD" tvg-logo="https://i.imgur.com/ydoBp3b.png" group-title="Religious",Avivamiento TV (1080p) [Not 24/7]
@@ -275,6 +275,8 @@ https://amogonetworx-artflix-1-nl.samsung.wurl.tv/playlist.m3u8
 http://181.114.57.246:4000/play/KgkA9tT2SpLYm86J/index.m3u8
 #EXTINF:-1 tvg-id="AuroraMediaFilms.gt@SD" tvg-logo="https://i.imgur.com/DVC5w6H.png" group-title="Movies",Aurora Media Films (720p)
 https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
+#EXTINF:-1 tvg-id="AXNAsia.sg@Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="Movies",AXN Asia Indonesia (1080p) [Geo-blocked]
+http://103.58.160.157:8278/720-AXN/playlist.m3u8
 #EXTINF:-1 tvg-id="AXNLatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="Movies",AXN Latin America South (2160p)
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-77.playlist.m3u8
 #EXTINF:-1 tvg-id="B4UBhojpuri.in@SD" tvg-logo="https://i.imgur.com/NwOQUDp.png" group-title="Movies",B4U Bhojpuri (1080p)
@@ -297,5 +299,3 @@ http://103.213.31.109:90/BollywoodClassic/playlist.m3u8
 http://103.213.31.109:90/BollywoodHD/playlist.m3u8
 #EXTINF:-1 tvg-id="BollywoodHD.ro@Russia" tvg-logo="https://i.imgur.com/scDKOLS.png" group-title="Movies",Bollywood HD Russia (576p)
 https://xykt-fix.github.io/cinerama_edge01/hls/BOLLYWOOD_RU/Movie009.m3u8
-#EXTINF:-1 tvg-id="Boreal.do@SD" tvg-logo="https://i.imgur.com/KSquHTG.png" group-title="Movies",Boreal (720p) [Not 24/7]
-https://edge.essastream.com/borealtelevision/tracks-v1a1/mono.m3u8
